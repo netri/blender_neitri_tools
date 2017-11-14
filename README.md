@@ -4,7 +4,7 @@ Few useful Blender operators inside one addon script. Especially useful for impr
 # How to instal:
 ```
 File > User Preferences > Add-ons > 
-    Install Add-on from File.. > Select this file
+    Install Add-on from File.. > Select neitri_tools.py
     Testing > enable > Object: Neitri's Tools
     Save User Settings
 ```
