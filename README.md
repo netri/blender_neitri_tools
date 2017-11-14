@@ -1,16 +1,16 @@
-# What is this ?
+# Overview
 Few useful Blender operators inside one addon script. Especially useful for improving imported MMD models bone hiearchy. Made for lovely VRChat community.
 
-# How to instal:
-```
-File > User Preferences > Add-ons > 
-    Install Add-on from File.. > Select neitri_tools.py
-    Testing > enable > Object: Neitri's Tools
-    Save User Settings
-```
-# What does it do ?
- Adds into space menu, following operators:
+# Installation
+1) Download https://raw.githubusercontent.com/netri/blender_neitri_tools/master/neitri_tools.py (ctrl+s)
+1) File > User Preferences > Add-ons > 
+    1) Install Add-on from File.. > Select neitri_tools.py
+    1) Testing > enable > Object: Neitri's Tools
+    1) Save User Settings
 
+
+# Usage
+ Adds into space menu, following operators:
 
 * Delete Zero Weight Bones and Vertex Groups - useful to cleanup MMD model hiearchy, because there is usually alot of extra bones that directly don't affect any vertice, those bones are usually used for IK
 <br> ![](https://i.imgur.com/x3KVvG3.gif)
