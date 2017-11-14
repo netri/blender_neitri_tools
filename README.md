@@ -17,6 +17,6 @@ Few useful Blender operators inside one addon script. Especially useful for impr
 
 * Delete Bones Constraints - useful to delete constraints that restrict your pose, those constraints usually worked well with the bones you just deleted in "Delete Zero Weight Bones and Vertex Groups"
 
-* Delete Bone and Add Weights To Parent - useful to delete twist bones, because for Unity you don't need twist bones, but you still need the twist bone weights __
+* Delete Bone and Add Weights To Parent - useful to delete twist bones, because for Unity you don't need twist bones, but you still need the twist bone weights
 <br> ![](https://i.imgur.com/Woddyu2.gif)
 
