@@ -3,11 +3,13 @@ Few useful Blender operators inside one addon script. Especially useful for impr
 
 # Installation
 1) Download https://raw.githubusercontent.com/netri/blender_neitri_tools/master/neitri_tools.py (ctrl+s)
-1) File > User Preferences > Add-ons > 
-    1) Install Add-on from File.. > Select neitri_tools.py
-    1) Testing > enable > Object: Neitri's Tools
+1) In Blender: File > User Preferences > Add-ons > 
+    1) Install Add-on from File.. > Find and Select just downloaded file "neitri_tools.py"
+    1) Testing > Object: Neitri's Tools > tick to enable
     1) Save User Settings
 
+# Compatible Blender versions
+Created and tested on Blender v2.79
 
 # Usage
  Adds into space menu, following operators:
