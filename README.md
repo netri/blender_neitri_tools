@@ -8,11 +8,11 @@ Few useful Blender operators inside one addon script. Especially useful for impr
     1) Testing > Object: Neitri's Tools > tick to enable
     1) Save User Settings
 
-# Compatible Blender versions
-Created and tested on Blender v2.79
+# Environment
+Created and tested in Blender v2.79
 
 # Usage
- Adds into space menu, following operators:
+Adds into space menu, following operators:
 
 * Delete Zero Weight Bones and Vertex Groups - useful to cleanup MMD model hiearchy, because there is usually alot of extra bones that directly don't affect any vertice, those bones are usually used for IK
 <br> ![](https://i.imgur.com/x3KVvG3.gif)
