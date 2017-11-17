@@ -1,4 +1,4 @@
-# Downloaded from: https://github.com/netri
+# Downloaded from: https://github.com/netri/blender_neitri_tools
 
 
 bl_info = {
@@ -9,7 +9,7 @@ bl_info = {
     "description": "Delete Zero Weight Bones and Vertex Groups, Delete Bones Constraints, Delete Bone and Add Weights To Parent",
     "location": "Space Menu",
     "warning": "",
-    "wiki_url": "",
+    "wiki_url": "https://github.com/netri/blender_neitri_tools",
     "category": "Object"
 }
 
