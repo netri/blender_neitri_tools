@@ -5,8 +5,10 @@ Few useful Blender operators inside one addon script, especially useful for impr
 1) Download https://raw.githubusercontent.com/netri/blender_neitri_tools/master/neitri_tools.py (ctrl+s)
 1) In Blender go to: File > User Preferences > Add-ons > 
     1) Install Add-on from File.. > Find and Select just downloaded file "neitri_tools.py"
-    1) Select Testing > Object: Neitri's Tools > tick to enable
+    1) Object: Neitri's Tools > tick to enable
     1) Save User Settings
+    
+![](https://i.imgur.com/OOmkzLy.gif)
 
 # Environment
 Created and tested in Blender v2.79
