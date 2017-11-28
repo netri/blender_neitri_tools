@@ -4,7 +4,7 @@
 bl_info = {
     "name": "Neitri's Tools",
     "author": "Neitri",
-    "version": (1, 1, 0),
+    "version": (1, 1, 1),
     "blender": (2, 79, 0),
     "description": "Delete Zero Weight Bones and Vertex Groups, Delete Bones Constraints, Delete Bone and Add Weights To Parent",
     "location": "Space Menu",
@@ -227,7 +227,7 @@ class DeleteBoneAndAddWeightsToParent(OperatorBase):
                 if vertex_group_to_remove is not None:
                     
                     if vertex_group_to_add_weights_to is None:
-                        vertex_group_to_add_weights_to = object.vertex_groups.add(bone_name_to_add_weights_to)
+                        vertex_group_to_add_weights_to = object.vertex_groups.new(bone_name_to_add_weights_to)
 
                     for vertex in object.data.vertices: # transfer weight for each vertex                        
                             weight_to_transfer = 0
