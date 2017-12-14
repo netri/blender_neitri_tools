@@ -1,3 +1,6 @@
+# This is now part of [Cats Blender plugin](https://vrcat.club/threads/cats-blender-plugin-0-3-0.6/), I highly recommend you use it instead.
+
+
 # Overview
 Few useful Blender operators inside one addon script, especially useful for improving imported MMD models bones hiearchy. Made for lovely VRChat community.
 
@@ -23,3 +26,14 @@ Adds into space menu following operators:
 
 * **Delete Bone and Add Weights To Parent** - Useful to remove any weighted bones, because you usually want to add their weights to their parent. MMD models usually come with few twist bones to better simulate real life human anatomy, however Unity nor VRChat support those, it's better to get rid of them.
 <br> ![](https://i.imgur.com/Woddyu2.gif)
+
+
+
+# Where do I find this in CATS Blender plugin ?
+
+* Delete Zero Weight Bones and Vertex Groups
+<br> Delete Bones Constraints
+<br> ![](https://image.prntscr.com/image/Ep1q0dEsRBKu1PKYxLddlw.png)
+
+* Delete Bone and Add Weights To Parent
+<br> ![](https://image.prntscr.com/image/TBnYNjVBROiwEWTkL7BGLg.png)
