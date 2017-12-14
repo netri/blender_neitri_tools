@@ -1,4 +1,4 @@
-# This is now part of [Cats Blender plugin](https://vrcat.club/threads/cats-blender-plugin-0-3-0.6/), I highly recommend you use it instead.
+# This is now part of [Cats Blender Plugin](https://vrcat.club/threads/cats-blender-plugin-0-3-0.6/), I highly recommend you use it instead.
 
 
 # Overview
@@ -29,7 +29,7 @@ Adds into space menu following operators:
 
 
 
-# Where do I find this in CATS Blender plugin ?
+# Where do I find this in CATS Blender Plugin ?
 
 * Delete Zero Weight Bones and Vertex Groups
 <br> Delete Bones Constraints
