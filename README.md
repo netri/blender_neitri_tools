@@ -1,4 +1,4 @@
-# This is now part of [Cats Blender Plugin](https://vrcat.club/threads/cats-blender-plugin-0-3-0.6/), I highly recommend you use it instead.
+# All of this is now part of [Cats Blender Plugin](https://vrcat.club/threads/cats-blender-plugin-0-3-0.6/), I highly recommend you use it instead.
 
 
 # Overview
